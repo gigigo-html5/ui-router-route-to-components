@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-    var MODULE_NAME = 'ui.router.components',
+    var MODULE_NAME = 'ui.router.components';
 
     angular
 	.module(MODULE_NAME, ['ui.router'])

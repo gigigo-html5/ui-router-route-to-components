@@ -1,6 +1,6 @@
 {
-  "name": "ui-router-route-to-components",
-  "version": "1.0.1",
+  "name": "ui-router-components",
+  "version": "1.0.0",
   "description": "Route to components today using Angular 1.5+ and ui-router 0.2.x+",
   "main": "src/routeToComponents.js",
   "repository": {
